@@ -1,4 +1,4 @@
-<img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" length = 150, width = 150>
+<img src="https://assets.tryhackme.com/img/badges/introtowebsecurity.svg" length = 125, width = 125>
 
 # 1: Command Injection
 "Command Injection" was the first lab I did with TryHackMe. It's an Easy lab that covers the basics of exploiting vulnerabilities using command injection.
