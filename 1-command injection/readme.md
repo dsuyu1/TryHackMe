@@ -9,3 +9,10 @@ I was able to find what user the application was running as by inputting `;whoam
 I learned that there are many variations of the same payload. Some had the `|` in front, and some had `$` in front. For this lab, the semicolon (`|`) worked. 
 
 Command injection can be easily prevented via **input sanitization.** We check whether or not the input is valid. We can look for certain characteristics. For example, the input must be a number between 0-9. Otherwise, we will reject the input.
+
+### Summary
+I learned:
+- How to discover the command injection vulnerability
+- How to test and exploit this vulnerability using payloads designed for different operating systems
+- How to prevent this vulnerability in an application
+- Applying my learning by performing command injection in a practical application
